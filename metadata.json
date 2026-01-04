@@ -1,0 +1,5 @@
+{
+  "name": "Session Volume Profile",
+  "description": "Real-time market profile visualization with session-based volume analysis, POC, and Value Area calculation using Binance data.",
+  "requestFramePermissions": []
+}
